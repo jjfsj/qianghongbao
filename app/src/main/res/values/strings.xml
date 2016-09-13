@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自动抢红包</string>
+    <string name="accessibility_description">自动抢红包,不需要点击</string>
+</resources>
